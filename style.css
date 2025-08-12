@@ -1,3 +1,23 @@
 header{
     background-color: blueviolet;
 }
+
+#produtos{
+    background-color: rgb(230, 50, 140);
+    height: 50px;
+}
+
+#parceiros{
+    background-color: rgb(127, 219, 255);
+    height:50px;
+}
+
+#historia{
+    background-color: rgb(104, 243, 178);
+    height: 50px;
+}
+
+#cadastro{
+    background-color: rgb(221, 238, 71);
+    height: 50px;
+}
