@@ -76,3 +76,17 @@ header{
     /* border: solid rgb(243, 161, 161) 2px; */
     text-align: left;
 }
+
+.card{
+    border: solid 2px red;
+    width: 300px;
+}
+
+.imagemcard{
+    width: 200px;
+}
+.preco{
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
